@@ -10,5 +10,5 @@
 
 </div>
 <div align="center">
-  <img src="./hologram.svg" width="900" alt="HELLO WORLD">
+  <img src="./hologram.gif" width="900" alt="HELLO WORLD">
 </div>
