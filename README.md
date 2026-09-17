@@ -18,6 +18,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
  Exploring **LLMs, NLP and AI Agents**
 
 > *“CHILL...!”*
+<!--
 <br></br>
 <div align="left">
 
@@ -48,3 +49,4 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 </td>
 </tr>
 </table>
+-->
