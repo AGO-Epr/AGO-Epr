@@ -18,6 +18,17 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
  Exploring **LLMs, NLP and AI Agents**
 
 > *“CHILL...!”*
+
+<br></br>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true&background=080D16&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&v=1"
+       alt="GitHub Streak"
+       width="800"/>
+
+</div>
+
 <!--
 <br></br>
 <div align="left">
