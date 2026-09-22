@@ -6,11 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=*+*+*;Just+an+Ordinary+Human+here+:)">
 </div>
 <br></br>
-<div align="left">
+
+
+<table> <tr> <td width="65%" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=4DA6FF&center=false&vCenter=true&width=200&height=30&lines=About+Me:" alt="About Me"/>
 
-</div>
+<br>
 
 Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artificial Intelligence & Data Science**.
 
@@ -19,43 +21,19 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 > *“CHILL...!”*
 
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<div style="border: 2px solid #36BCF7; border-radius: 12px; padding: 6px; display: inline-block;">
+
+<img src="./loop/gif.gif?raw=true" width="200" alt="Animated intro" >
+
+</div>
+
+</td> </tr> </table>
 <div align="center">
 
   <img src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true&background=080D16&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&v=1"
        alt="GitHub Streak"
        width="600"/>
-
-</div>
-
-<!--
-<br></br>
-<div align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=4DA6FF&center=false&vCenter=true&width=200&height=30&lines=Git+Stats:" alt="Git Stats"/>
-
-</div>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" ">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=Priyanshu-Rawat-Entropy&rank_icon=github&show_icons=true&include_all_commits=true&title_color=36BCF7&text_color=B8DDF5&icon_color=36BCF7&bg_color=0D1117"
-  alt="Git Stats"
-  width="400"
-/>
-
-</td>
-
-<td align="center" ">
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs?username=Priyanshu-Rawat-Entropy&langs_count=3&title_color=36BCF7&text_color=B8DDF5&icon_color=36BCF7&bg_color=0D1117"
-  alt="Top Languages"
-  width="400"
-/>
-
-</td>
-</tr>
-</table>
--->
