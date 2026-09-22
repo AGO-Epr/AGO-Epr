@@ -27,7 +27,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <div style="border: 2px solid #36BCF7; border-radius: 12px; padding: 6px; display: inline-block;">
 
-<img src="./loop/gif.gif?raw=true" width="200" alt="Animated intro" >
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" />
 
 </div>
 
