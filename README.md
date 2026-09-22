@@ -9,7 +9,7 @@
 
 
 <table> <tr> <td width="65%" valign="top">
-
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=4DA6FF&center=false&vCenter=true&width=200&height=30&lines=About+Me:" alt="About Me"/>
 
 <br>
@@ -20,7 +20,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
  Exploring **LLMs, NLP and AI Agents**
 
 > *“CHILL...!”*
-
+<br>
 </td>
 
 <td width="35%" align="center" valign="middle">
