@@ -34,6 +34,14 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 </td> </tr> </table>
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true&background=080D16&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&v=1"
-       alt="GitHub Streak"
-       width="600"/>
+<img
+  src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true&background=0D1117&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F"
+  width="600"
+  alt="GitHub Streak"
+/>
+<!--
+<img
+  src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true"
+  width="600"
+/>
+-->
