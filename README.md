@@ -27,7 +27,9 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <div style="border: 2px solid #36BCF7; border-radius: 12px; padding: 6px; display: inline-block;">
 
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" />
+<!-- <img src="./Animation/room.gif" width="200" alt="Animation"> -->
+
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
 
 </div>
 
@@ -35,7 +37,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F"
+  src="https://streak-stats.demolab.com/?user=AGO-Epr&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F"
   width="600"
   alt="GitHub Streak"
 />
