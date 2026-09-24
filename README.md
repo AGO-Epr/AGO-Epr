@@ -39,9 +39,8 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
   width="600"
   alt="GitHub Streak"
 />
-<!--
+
 <img
   src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true"
   width="600"
 />
--->
