@@ -10,7 +10,7 @@
 
 <table> <tr> <td width="65%" valign="top">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=1F6F9F&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
 <!-- Fira+Code -->
 <br>
 
