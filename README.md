@@ -18,7 +18,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
  Interested in **AI, Machine Learning, Deep Learning & Agentic AI**  
  Exploring **LLMs, NLP and AI Agents**
-
+<br></br>
 > *“CHILL...!”*
 <br>
 </td>
@@ -29,7 +29,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <!-- <img src="./Animation/room.gif" width="200" alt="Animation"> -->
 
- <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
+ <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
 
 <!-- loop animation -->
 
