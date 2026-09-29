@@ -5,8 +5,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=*%C2%A0%C2%A0%C2%A0*%C2%A0%C2%A0%C2%A0*;Just%C2%A0%C2%A0%C2%A0an%C2%A0%C2%A0%C2%A0%C2%A0Ordinary%C2%A0%C2%A0%C2%A0Human%C2%A0%C2%A0%C2%A0here%C2%A0%C2%A0:)" alt="Typing SVG">
 </div>
-<br></br>
 
+<div align="center">
+<!-- <img width="771" height="160" alt="Image" src="https://github.com/user-attachments/assets/12cb9a34-8e94-45b8-a550-12cbae35ac88" /> -->
+</div>
+<br>
 
 <table> <tr> <td width="65%" valign="top">
 <br>
