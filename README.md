@@ -79,10 +79,10 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 <br>
 
 <div align="center">
-  <img width="61" height="50" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" />
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=15&pause=0&color=808080&center=false&vCenter=true&width=100&lines=..zzz;..zzz" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=15&pause=0&color=808080&center=true&vCenter=true&width=100&lines=..zzz;..zzz" alt="Typing SVG"  />
 </div>
-
+<div align="center">
+   <img width="61" height="50" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" /></div>
 <!--https://streak-stats.demolab.com/?user=AGO-Epr&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&timezone=Asia%2FKolkata&v=2 -->
 
 <!--
