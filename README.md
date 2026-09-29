@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%3E%C2%A0%C2%A0%C2%A0HELLO%C2%A0%C2%A0%C2%A0WORLD%C2%A0%C2%A0%C2%A0%3C;%E3%81%9F%C2%A0%E3%81%A0%C2%A0%E3%81%AE%C2%A0%E6%99%AE%C2%A0%E9%80%9A%C2%A0%E3%81%AE%C2%A0%E4%BA%BA%C2%A0%E9%96%93+.%C2%A0%C2%A0%C2%A0.%C2%A0%C2%A0%C2%A0.%C2%A0%C2%A0%C2%A0!" alt="Typing SVG">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=*%C2%A0%C2%A0%C2%A0*%C2%A0%C2%A0%C2%A0*;Just%C2%A0%C2%A0%C2%A0an%C2%A0%C2%A0%C2%A0%C2%A0Ordinary%C2%A0%C2%A0%C2%A0Human%C2%A0%C2%A0%C2%A0here%C2%A0%C2%A0:)" alt="Typing SVG">
-</div>
-
-<div align="center">
   <!-- <img width="996" height="160" alt="Image" src="https://github.com/user-attachments/assets/43db6724-3ddf-413b-8e21-0358877d5820" /> -->
   <img width="480" height="160" alt="Image" src="https://github.com/user-attachments/assets/de3e676e-77de-4c81-a3d4-bf156bb19eb3" />
   <!-- <img width="1196" height="160" alt="Image" src="https://github.com/user-attachments/assets/34fb54c7-57e2-4373-bbf8-4f0062050c7d" /> -->
 <!-- <img width="771" height="160" alt="Image" src="https://github.com/user-attachments/assets/12cb9a34-8e94-45b8-a550-12cbae35ac88" /> -->
 </div>
 <br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%3E%C2%A0%C2%A0%C2%A0HELLO%C2%A0%C2%A0%C2%A0WORLD%C2%A0%C2%A0%C2%A0%3C;%E3%81%9F%C2%A0%E3%81%A0%C2%A0%E3%81%AE%C2%A0%E6%99%AE%C2%A0%E9%80%9A%C2%A0%E3%81%AE%C2%A0%E4%BA%BA%C2%A0%E9%96%93+.%C2%A0%C2%A0%C2%A0.%C2%A0%C2%A0%C2%A0.%C2%A0%C2%A0%C2%A0!" alt="Typing SVG">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=*%C2%A0%C2%A0%C2%A0*%C2%A0%C2%A0%C2%A0*;Just%C2%A0%C2%A0%C2%A0an%C2%A0%C2%A0%C2%A0%C2%A0Ordinary%C2%A0%C2%A0%C2%A0Human%C2%A0%C2%A0%C2%A0here%C2%A0%C2%A0:)" alt="Typing SVG">
+</div>
 
 <table> <tr> <td width="65%" valign="top">
 <br>
