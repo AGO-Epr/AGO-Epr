@@ -38,9 +38,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
  Exploring **LLMs, NLP and AI Agents**
 <br>
 > *“CHILL...!”*
-<div aling="center">
-<img width="61" height="50" alt="Image" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" />
-</div>
+
 </td>
 
 <td width="35%" align="center" valign="middle">
@@ -49,7 +47,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <!-- <img src="./Animation/room.gif" width="200" alt="Animation"> -->
 
- <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
+ <img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
 
 <!-- loop animation -->
 
@@ -77,6 +75,10 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 <div align="center">
 <img width="304" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
   
+</div>
+<br>
+<div align="center">
+<img width="61" height="50" alt="Image" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" />
 </div>
 <!--https://streak-stats.demolab.com/?user=AGO-Epr&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&timezone=Asia%2FKolkata&v=2 -->
 
