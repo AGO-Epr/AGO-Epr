@@ -16,18 +16,18 @@
 </div>
 <br>
 <table> <tr> <td width="65%" valign="top">
-<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
 <!-- Fira+Code -->
-<br>
+
 
 Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artificial Intelligence & Data Science**.
 
  Interested in **AI, Machine Learning, Deep Learning & Agentic AI**  
  Exploring **LLMs, NLP and AI Agents**
-<br></br>
-> *“CHILL...!”*
 <br>
+> *“CHILL...!”*
+
 </td>
 
 <td width="35%" align="center" valign="middle">
@@ -36,7 +36,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <!-- <img src="./Animation/room.gif" width="200" alt="Animation"> -->
 
- <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
+ <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
 
 <!-- loop animation -->
 
