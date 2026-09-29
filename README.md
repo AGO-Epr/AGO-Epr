@@ -14,6 +14,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=*%C2%A0%C2%A0%C2%A0*%C2%A0%C2%A0%C2%A0*;Just%C2%A0%C2%A0%C2%A0an%C2%A0%C2%A0%C2%A0%C2%A0Ordinary%C2%A0%C2%A0%C2%A0Human%C2%A0%C2%A0%C2%A0here%C2%A0%C2%A0:)" alt="Typing SVG">
 </div>
+
+<div align="center">
+<img width="404" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
+  
+</div>
 <br>
 <table> <tr> <td width="65%" valign="top">
 
@@ -48,6 +53,10 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 </td> </tr> </table>
 <div align="center">
+<img width="304" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
+  
+</div>
+<div align="center">
 
 <img
    src="https://streak-stats.demolab.com/?user=AGO-Epr&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&timezone=Asia%2FKolkata" 
@@ -55,6 +64,12 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
   alt="GitHub Streak"
 />
 
+</div>
+
+<div align="center">
+<img width="304" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
+  
+</div>
 <!--https://streak-stats.demolab.com/?user=AGO-Epr&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&timezone=Asia%2FKolkata&v=2 -->
 
 <!--
