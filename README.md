@@ -8,6 +8,10 @@
 </div>
 <br>
 <div align="center">
+<img width="604" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
+<br>
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%3E%C2%A0%C2%A0%C2%A0HELLO%C2%A0%C2%A0%C2%A0WORLD%C2%A0%C2%A0%C2%A0%3C;%E3%81%9F%C2%A0%E3%81%A0%C2%A0%E3%81%AE%C2%A0%E6%99%AE%C2%A0%E9%80%9A%C2%A0%E3%81%AE%C2%A0%E4%BA%BA%C2%A0%E9%96%93+.%C2%A0%C2%A0%C2%A0.%C2%A0%C2%A0%C2%A0.%C2%A0%C2%A0%C2%A0!" alt="Typing SVG">
 </div>
 
@@ -21,10 +25,12 @@
 </div>
 <br>
 <table> <tr> <td width="65%" valign="top">
-
+<div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
-<!-- Fira+Code -->
 
+</div>
+
+<!-- Fira+Code -->
 
 Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artificial Intelligence & Data Science**.
 
