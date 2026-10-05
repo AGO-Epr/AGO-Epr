@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="440" height="200" alt="Image" src="https://github.com/user-attachments/assets/955169dd-cb02-4de0-ba49-7d84c5ca670d" />
+  <img src="Animation/tree (1).svg" height ='390'alt="Animation">
   
   <!-- <img width="996" height="160" alt="Image" src="https://github.com/user-attachments/assets/43db6724-3ddf-413b-8e21-0358877d5820" /> -->
   <!-- <img width="480" height="160" alt="Image" src="https://github.com/user-attachments/assets/de3e676e-77de-4c81-a3d4-bf156bb19eb3" /> -->
@@ -45,9 +45,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <div style="border: 2px solid #36BCF7; border-radius: 12px; padding: 6px; display: inline-block;">
 
-<!-- <img src="./Animation/room.gif" width="200" alt="Animation"> -->
-
- <img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/c5dedcfb-6127-4ca9-a7a1-946a7e397aed" /> 
+<img src="Animation/infi (1).svg" width="200" alt="Animation">
 
 <!-- loop animation -->
 
