@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Animation/tree (1).svg" height ='390'alt="Animation">
+  <img src="Animation/tree (1).svg" height ='365'alt="Animation">
   
   <!-- <img width="996" height="160" alt="Image" src="https://github.com/user-attachments/assets/43db6724-3ddf-413b-8e21-0358877d5820" /> -->
   <!-- <img width="480" height="160" alt="Image" src="https://github.com/user-attachments/assets/de3e676e-77de-4c81-a3d4-bf156bb19eb3" /> -->
