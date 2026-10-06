@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="Animation/tree (1).svg" height ='355'alt="Animation">
-  
+    <img src="Animation/tree (1).svg" width="650" height='400' alt="Animation">
+
   <!-- <img width="996" height="160" alt="Image" src="https://github.com/user-attachments/assets/43db6724-3ddf-413b-8e21-0358877d5820" /> -->
   <!-- <img width="480" height="160" alt="Image" src="https://github.com/user-attachments/assets/de3e676e-77de-4c81-a3d4-bf156bb19eb3" /> -->
   <!-- <img width="1196" height="160" alt="Image" src="https://github.com/user-attachments/assets/34fb54c7-57e2-4373-bbf8-4f0062050c7d" /> -->
@@ -81,7 +81,6 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 </div>
 <div align="center">
    <img width="61" height="50" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" /></div>
-<!--https://streak-stats.demolab.com/?user=AGO-Epr&theme=dark&hide_border=true&background=transparent&stroke=164E73&ring=0EA5E9&fire=F97316&currStreakNum=E0F7FF&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7C9AB2&excludeDaysLabel=52758F&timezone=Asia%2FKolkata&v=2 -->
 
 <!--
 <img
