@@ -46,7 +46,7 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 
 <div style="border: 2px solid #36BCF7; border-radius: 12px; padding: 6px; display: inline-block;">
 
-<img src="Animation/infi (1).svg" width="180" alt="Animation">
+<img src="Animation/code_boy.svg" width="280" alt="Animation">
 
 <!-- loop animation -->
 
