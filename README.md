@@ -7,7 +7,7 @@
   <!-- <img width="1196" height="160" alt="Image" src="https://github.com/user-attachments/assets/34fb54c7-57e2-4373-bbf8-4f0062050c7d" /> -->
 <!-- <img width="771" height="160" alt="Image" src="https://github.com/user-attachments/assets/12cb9a34-8e94-45b8-a550-12cbae35ac88" /> -->
 </div>
-<br>
+<br></br>
 <div align="center">
 <img width="404" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
 </div>
@@ -24,7 +24,7 @@
 <img width="404" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
   
 </div>
-<br>
+<br></br>
 <table> <tr> <td width="65%" valign="top">
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
