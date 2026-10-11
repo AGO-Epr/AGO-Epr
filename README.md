@@ -77,8 +77,8 @@ Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artifi
 </div>
 <br>
 <div align="center">
-<img src="Animation/stand_by.svg" width="600" alt="Animation"></div>
-<br></br>
+<img src="Animation/stand_by.svg" width="450" alt="Animation"></div>
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=25&pause=0&color=808080&center=true&vCenter=true&width=100&lines=.+.+zzz;.+.+zzz" alt="Typing SVG"  />
 </div>
