@@ -30,27 +30,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
 
 <br>
+<!--
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Hi+I'm+Priyanshu+Rawat%2C+specialized+in+AI+%26+Data+Science." alt="Hi! I'm Priyanshu Rawat, specialized in AI & Data Science."/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Hi+I'm+Priyanshu+Rawat%2C+specialized+in+AI+%26+Data+Science." alt="Hi! I'm Priyanshu Rawat, specialized in AI & Data Science."/>
 </div>
 <br>
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Interested+in+AI%2C+Machine+Learning%2C+Deep+Learning+and+Agentic+AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
+
+ <div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Interested+in+AI%2C+Machine+Learning%2C+Deep+Learning+and+Agentic+AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
 </div>
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Exploring+LLMs+NLP+and+AI+Agents." alt="Exploring LLMs, NLP and AI Agents"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Exploring+LLMs+NLP+and+AI+Agents." alt="Exploring LLMs, NLP and AI Agents"/>
+</div> -->
 
 </div>
 
 <!-- Fira+Code -->
-<!--
+
 Hi! I'm **Priyanshu Rawat**, specialized in **Artificial Intelligence & Data Science**.
 
  Interested in **AI, Machine Learning, Deep Learning & Agentic AI**  
  Exploring **LLMs, NLP and AI Agents**
-<br>-->
+<br>
 <br>
 
 > *“CHILL...!”*
