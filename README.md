@@ -35,11 +35,11 @@
 </div>
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Interested%C2%A0%C2%A0in%C2%A0%C2%A0AI%2C%C2%A0%C2%A0Machine%C2%A0Learning%2C%C2%A0%C2%A0Deep%C2%A0Learning%C2%A0%26%C2%A0Agentic%C2%A0AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&duration=1&pause=100000&color=B8DDF5&center=false&vCenter=true&width=750&height=30&lines=Interested%C2%A0%C2%A0in%C2%A0%C2%A0AI%2C%C2%A0%C2%A0Machine%C2%A0Learning%2C%C2%A0%C2%A0Deep%C2%A0Learning%C2%A0%26%C2%A0Agentic%C2%A0AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
 </div>
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Exploring%C2%A0%C2%A0LLMs%2C%C2%A0%C2%A0NLP%C2%A0%C2%A0and%C2%A0%C2%A0AI%C2%A0Agents." alt="Exploring LLMs, NLP and AI Agents"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&duration=1&pause=100000&color=B8DDF5&center=false&vCenter=true&width=750&height=30&lines=Exploring%C2%A0%C2%A0LLMs%2C%C2%A0%C2%A0NLP%C2%A0%C2%A0and%C2%A0%C2%A0AI%C2%A0Agents." alt="Exploring LLMs, NLP and AI Agents"/>
 </div>
 
 </div>
