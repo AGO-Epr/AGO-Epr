@@ -31,7 +31,7 @@
 
 <br>
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Hi+I'm+Priyanshu+Rawat%2C+specialized+in+AI+Data+Science." alt="Hi! I'm Priyanshu Rawat, specialized in AI & Data Science."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Hi+I'm+Priyanshu+Rawat%2C+specialized+in+AI+%26+Data+Science." alt="Hi! I'm Priyanshu Rawat, specialized in AI & Data Science."/>
 </div>
 <br>
 <div align="left">
