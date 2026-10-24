@@ -24,7 +24,17 @@
 <img width="404" height="12" alt="Image" src="https://github.com/user-attachments/assets/49b4defd-f8ff-49f6-b6b6-9f161dda8862" />
   
 </div>
-<br></br>
+<br>
+<div align="center">
+
+<a href="mailto:ago.epr0005@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=87CEEB&labelColor=0B2545" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyanshu-rawat-351965289/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjODdDRUVCIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4%3D&labelColor=0B2545" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://github.com/AGO-Epr"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=87CEEB&labelColor=0B2545" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<!-- <img src="https://komarev.com/ghpvc/?username=AGO-Epr&style=for-the-badge&color=0d0221&label=PROFILE+VIEWS&labelColor=0B2545" alt="Profile Views"/> -->
+
+</div>
+
 <table> <tr> <td width="65%" valign="top">
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
@@ -103,17 +113,7 @@ Hi! I'm **Priyanshu Rawat**, specialized in **Artificial Intelligence & Data Sci
    <img width="61" height="50" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" /></div>
 <br>
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/priyanshu-rawat-351965289/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjODdDRUVCIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4%3D&labelColor=0d0221" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/AGO-Epr">
-  <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=87CEEB&labelColor=0d0221"&labelColor=1F6F9F" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=AGO-Epr&style=for-the-badge&color=0d0221&label=PROFILE+VIEWS&labelColor=0d0221" alt="Profile Views"/>
-
-</div>
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AGO-Epr&style=for-the-badge&color=1F6F9F&label=PROFILE+VIEWS&labelColor=0d0221">
 </div> -->
