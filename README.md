@@ -101,6 +101,12 @@ Hi! I'm **Priyanshu Rawat**, specialized in **Artificial Intelligence & Data Sci
 </div>
 <div align="center">
    <img width="61" height="50" src="https://github.com/user-attachments/assets/51a1903a-9c33-4899-9aee-4d8ba4ccbe80" /></div>
+
+<!-- <div align="center">
+<img src="https://komarev.com/ghpvc/?username=AGO-Epre&label=Profile%20Views&color=ec4899&style=flat" alt="Profile views" />
+</div> -->
+
+
 <!--
 <img
   src="https://streak-stats.demolab.com/?user=Priyanshu-Rawat-Entropy&theme=dark&hide_border=true"
