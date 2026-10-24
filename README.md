@@ -29,15 +29,30 @@
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=22&duration=1&pause=100000&color=36BCF7&center=false&vCenter=true&width=200&height=30&lines=About%C2%A0%C2%A0%C2%A0Me:" alt="About Me"/>
 
+<br>
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=19&duration=1&pause=100000&color=B8DDF5&center=false&vCenter=true&width=750&height=30&lines=Hi!%C2%A0%C2%A0I'm%C2%A0%C2%A0Priyanshu%C2%A0%C2%A0Rawat%2C%C2%A0%C2%A0specialized%C2%A0%C2%A0in%C2%A0%C2%A0AI%C2%A0%26%C2%A0Data%C2%A0Science." alt="Hi! I'm Priyanshu Rawat, specialized in AI & Data Science."/>
+</div>
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=19&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Interested%C2%A0%C2%A0in%C2%A0%C2%A0AI%2C%C2%A0%C2%A0Machine%C2%A0Learning%2C%C2%A0%C2%A0Deep%C2%A0Learning%C2%A0%26%C2%A0Agentic%C2%A0AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
+</div>
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=19&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Exploring%C2%A0%C2%A0LLMs%2C%C2%A0%C2%A0NLP%C2%A0%C2%A0and%C2%A0%C2%A0AI%C2%A0Agents." alt="Exploring LLMs, NLP and AI Agents"/>
+</div>
+
 </div>
 
 <!-- Fira+Code -->
-
+<!--
 Hi! I'm **Priyanshu Rawat**, specialized in **Artificial Intelligence & Data Science**.
 
  Interested in **AI, Machine Learning, Deep Learning & Agentic AI**  
  Exploring **LLMs, NLP and AI Agents**
+<br>-->
 <br>
+
 > *“CHILL...!”*
 
 </td>
