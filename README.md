@@ -33,7 +33,7 @@
 
 <!-- Fira+Code -->
 
-Hi! I'm **Priyanshu Rawat**, a Computer Science student specializing in **Artificial Intelligence & Data Science**.
+Hi! I'm **Priyanshu Rawat**, specialized in **Artificial Intelligence & Data Science**.
 
  Interested in **AI, Machine Learning, Deep Learning & Agentic AI**  
  Exploring **LLMs, NLP and AI Agents**
