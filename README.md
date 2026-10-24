@@ -35,7 +35,7 @@
 </div>
 <br>
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Interested+in+AI+Machine+Learning+Deep+Learning+Agentic+AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=750&height=30&lines=Interested+in+AI%2C+Machine+Learning%2C+Deep+Learning+and+Agentic+AI." alt="Interested in AI, Machine Learning, Deep Learning & Agentic AI"/>
 </div>
 
 <div align="left">
